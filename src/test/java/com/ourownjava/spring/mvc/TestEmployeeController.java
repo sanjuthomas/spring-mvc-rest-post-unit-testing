@@ -18,7 +18,6 @@ import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.setup.MockMvcBuilders;
 
 /**
- * @author ourownjava.com
  * 
  */
 @RunWith(SpringJUnit4ClassRunner.class)
